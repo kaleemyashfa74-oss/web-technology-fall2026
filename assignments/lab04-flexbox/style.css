@@ -2,7 +2,7 @@
 
 .cards {
     display: flex;
-    justify-content: flex-end;
+    justify-content: center;
     gap: 20px;
 }
 .navbar {
